@@ -4,8 +4,8 @@ subtitle: |
   | New Zealand Statistical Association
 date: |
   | 
-  | University of Otago
-  | April 14, 2025
+  | Massey University
+  | April 28, 2025
   | 
   | 
 output: 
@@ -36,7 +36,7 @@ output:
 ### Resources
 
 - [Slides (PDF)](NZSA DS Education Seminar.pdf): Data Science Education
-- [Google Slides](https://docs.google.com/presentation/d/1VZjzPrOPest5bvbtPTHbdiFTflhSamORIM8GLFIkCTc/edit#slide=id.g349976153b9_0_68): Data Science Education 
+- [Google Slides](https://docs.google.com/presentation/d/1impoFQA_fIl1DP6EITUOiFmMt6dlriwSJuhN8vRM8wg/edit?usp=sharing): Data Science Education 
 - [causeweb.org](https://www.causeweb.org/cause/)
 - [datascience4everyone.org](https://www.datascience4everyone.org/)
 - [Journal of Statistics & Data Science Education](https://www.tandfonline.com/journals/ujse21)
