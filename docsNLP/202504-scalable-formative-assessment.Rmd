@@ -424,22 +424,6 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
 
 
 
-# Feedback: Just let AI do it
-
-- undermines instructor benefits of formative assessment
-- conflicts with goal statement (e.g., amplify, not supplant, instructor effort)
-- additional concerns...
-
-
-# {.plain}
-
-<!-- \noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{terminator.png}  -->
-
-
-![Image credit: https://www.slugmag.com/arts/film/film-reviews/terminator-genisys-time-is-not-on-my-side/](terminator.png){ width=100% }
-
-
-
 # Feedback: Just let AI do it?[^3]
 
 - undermines instructor benefits of formative assessment
