@@ -35,7 +35,7 @@ output:
 
 ### Resources
 
-- [Slides (PDF)](NZSA DS Education Seminar.pdf): Data Science Education
+- [Slides (PDF)](docsDS/NZSA DS Education Seminar (28 Apr 2025).pdf): Data Science Education
 - [Google Slides](https://docs.google.com/presentation/d/1impoFQA_fIl1DP6EITUOiFmMt6dlriwSJuhN8vRM8wg/edit?usp=sharing): Data Science Education 
 - [causeweb.org](https://www.causeweb.org/cause/)
 - [datascience4everyone.org](https://www.datascience4everyone.org/)
