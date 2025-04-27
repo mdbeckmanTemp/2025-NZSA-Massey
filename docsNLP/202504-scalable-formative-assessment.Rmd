@@ -5,9 +5,9 @@ author: |
   | Penn State University
 date: | 
   | NZSA Visiting Lecturer Seminar
-  | University of Otago
+  | Massey University
   | 
-  | April 14, 2025
+  | April 28, 2025
 
 
 output:
@@ -406,11 +406,11 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
 
 
 
-# Let's talk about Feedback...
+<!-- # Let's talk about Feedback... -->
 
-*Develop technology that can assist instructors for large (STEM) classes with providing targeted formative assessment feedback to students, such that instructor burden is similar to small class (~30 students)*
+<!-- *Develop technology that can assist instructors for large (STEM) classes with providing targeted formative assessment feedback to students, such that instructor burden is similar to small class (~30 students)* -->
 
-![Big "O" for Open Problem](open-problem.png){ width=95% }
+<!-- ![Big "O" for Open Problem](open-problem.png){ width=95% } -->
 
 
 # Feedback Avenues 
@@ -476,7 +476,7 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
     - Study the way instructors might do it and build tools to streamline at scale
     - How consistent are humans?
     - Can our NLP tools achieve results as good or better than humans?
-- Result: Respectable (but possibly *cursed?*)
+- Result: Respectable (...in spite of the *curse*)
 
 
 # Feedback: Topological Data Analysis Tools
@@ -491,7 +491,6 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
     - Promising work for NLP application of TDA, broadly
     - Viability for feedback is still a long road
 
-<!-- # Feedback: Guided Reflection with Comparative Judgment -->
 
 
 
@@ -546,8 +545,10 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
 - **RQ3**: Promising results based on "man-made clusters" but classification and clustering have competing incentives when it comes to dimensionality of NLP vector representations
     - Lower Dim is generally better for cluster stability
     - Higher Dim better for classification reliability
-    - Exploring Topological Analysis as alternative to clustering
     - Feedback as a classifier (Li et al., 2023)
+    - Exploring Topological Analysis as alternative to clustering
+    - Comparative judgments for guided reflection as feedback
+
 
 
 # Current Events
