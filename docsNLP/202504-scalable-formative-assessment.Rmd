@@ -53,6 +53,14 @@ knitr::include_graphics(c("OddForm.png","EvenForm.png"))
 <!-- MDB: Show some actual responses to the survey from past? -->
 <!-- MDB: Update Google Form pointer to resource page -->
 
+# Responses
+
+
+```{r, echo=FALSE, out.width="0.8\\linewidth", fig.align='center'}
+knitr::include_graphics("FA_Even.png")
+knitr::include_graphics("FA_Odd.png")
+```
+
 
 # Motivation
 
