@@ -41,8 +41,11 @@ library(knitr)
 
 # {.plain}
 
-\titlepage
+\titlepage 
 
+# Pennsylvania State University 
+
+![](Geography.png){ width=95% }
 
 # Responses?
 

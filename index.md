@@ -25,8 +25,8 @@ output:
 - [ArXiv Preprint (link)](https://arxiv.org/abs/2410.18062): Beckman, Burke, Fiochetta, Fry, Lloyd, Patterson, Tang, (2024). Developing Consistency Among Undergraduate Graders Scoring Open-Ended Statistics Tasks. Preprint URL: https://arxiv.org/abs/2410.18062
 - [EMNLP Paper (PDF)](docsNLP/EMNLP-Paper.pdf): Li, Z., Lloyd, S., Beckman, M. D., & Passonneau, R. J. (2023). Answer-state Recurrent Relational Network (AsRRN) for Constructed Response Assessment and Feedback Grouping.  *Findings of the Association for Computational Linguistics: EMNLP 2023*. https://doi.org/10.18653/v1/2023.findings-emnlp.254
 - [ICOTS Paper (PDF)](docsNLP/ICOTS-Paper.pdf): Lloyd, S. E., Beckman, M., Pearl, D., Passonneau, R., Li, Z., & Wang, Z. (2022). Foundations for AI-Assisted Formative Assessment Feedback for Short-Answer Tasks in Large-Enrollment Classes. In *Proceedings of the eleventh international conference on teaching statistics*. Rosario, Argentina.
-- [Project CLASSIFIES Website (link)](https://project-classifies.weebly.com/)
 - [ArXiv Preprint (link)](https://arxiv.org/pdf/2504.03877) Wei, Y., Pearl, D., Beckman, M., Passonneau, R. (2025). Concept-based Rubrics Improve LLM Formative Assessment and Data Synthesis. Preprint URL: <https://arxiv.org/pdf/2504.03877>
+- [Project CLASSIFIES Website (link)](https://project-classifies.weebly.com/)
 - [2025 NZSA Seminar Series Website (link)](https://mdbeckmantemp.github.io/2025-NZSA/)
 
 ### Aligning expectations for the emergent discipline of data science education
