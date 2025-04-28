@@ -38,6 +38,12 @@ library(knitr)
 
 ![(QR Code) https://forms.gle/hpW72fMYE1SsB19JA](QR-GForm.png){width=20%}
 
+
+# {.plain}
+
+\titlepage
+
+
 # Responses?
 
 ```{r, echo=FALSE,out.width="49%", out.height="49%", fig.show='hold',fig.align='center'}
