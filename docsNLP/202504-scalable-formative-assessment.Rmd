@@ -89,13 +89,6 @@ knitr::include_graphics("FA_Odd.png")
 - **Logistics of constructed response tasks jeopardize use in large-enrollment classes** (Garfield & Ben-Zvi, 2008; Woodard & McGowan, 2012)
 
 
-# Goal
-
-
-*Develop technology that can assist instructors for large (STEM) classes with providing targeted formative assessment feedback to students, such that instructor burden is similar to small class (~30 students)*
-
-![image created with assistance of DALL·E 2 by Open AI](DALLE Robot Assist.png){width=40%}
-
 
 # Goal {.plain}
 
@@ -113,12 +106,11 @@ knitr::include_graphics("FA_Odd.png")
 
 # Goal {.plain}
 
-\noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-3-formative.png} 
-
+\noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-4-targetedFB.png} 
 
 # Goal {.plain}
 
-\noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-4-targetedFB.png} 
+\noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-3-formative.png} 
 
 
 # Goal {.plain}
